@@ -1,7 +1,7 @@
 import React from "react";
 
-export default const OriginalIntroPage = () => {
+export default const IntroPage = () => {
   return (
-    <div>OriginalIntro123</div>
+    <div>Intro123</div>
   )
 }
